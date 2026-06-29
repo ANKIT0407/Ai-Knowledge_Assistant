@@ -1,1 +1,1 @@
-# Ai-Knowledge_Assisstant
+# Ai-Knowledge_Assistant
